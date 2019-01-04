@@ -1,1 +1,4 @@
-ceci contien tout mes exercices lien:https://rarimalalamirana.github.io/Ruby/
+
+
+
+#lien vers pyramide : https://github.com/Rarimalalamirana/Ruby/blob/master/pyramid_1.rb
